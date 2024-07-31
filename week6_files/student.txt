@@ -1,0 +1,1 @@
+Name=ram,Usn=01,Sem=4,CGPA=8.8
